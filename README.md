@@ -2,6 +2,11 @@
 
 [Коллаб ноутбук](https://colab.research.google.com/drive/1jaBuN00Ibq3hNJOAwYeQ_hwRgd6ekIZW?authuser=2#scrollTo=ZH0mHx_sUTjS)
 
+### Скриншоты HiGlass
+<img width="1141" alt="Снимок экрана 2025-06-01 в 16 00 07" src="https://github.com/user-attachments/assets/a279da37-355d-4998-8943-856387cda735" />
+<img width="1141" alt="Снимок экрана 2025-06-01 в 15 55 45" src="https://github.com/user-attachments/assets/acea4c09-3ae2-4954-be08-54819395cf48" />
+
+
 
 ### Сбалансированные матрицы
 
