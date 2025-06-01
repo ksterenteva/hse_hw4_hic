@@ -56,6 +56,7 @@
 <img width="943" alt="Снимок экрана 2025-06-01 в 15 27 18" src="https://github.com/user-attachments/assets/492a3bb7-8875-41ed-b5e7-80706aa7464c" />
 
 ![Unknown-7](https://github.com/user-attachments/assets/07d75527-3a0d-4685-acf3-fa1712c40748)
+![Unknown-11](https://github.com/user-attachments/assets/8e44b6cc-5d02-43f1-9d73-62155346f1d3)
 
 
 ##### 2 файл 
